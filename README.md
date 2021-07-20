@@ -1,1 +1,1 @@
-# vstup
+https://super-firefox.github.io/vstup/
